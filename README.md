@@ -11,4 +11,13 @@ To run the REST API locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
+   https://github.com/dacharch/Rest-API
+   ```
+2. After the Cloning
+   ```bash
+   cd REST-API
+   npm install
+   ```
+   
+
    
