@@ -22,6 +22,12 @@ To run the REST API locally, follow these steps:
    ```bash
    npm start
    ```
+Output
+
+
+
+https://github.com/dacharch/Rest-API/assets/46372637/94a933e8-0b70-4908-97e6-e814d138bfa4
+
 
    
 
