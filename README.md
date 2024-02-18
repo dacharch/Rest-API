@@ -18,6 +18,11 @@ To run the REST API locally, follow these steps:
    cd REST-API
    npm install
    ```
+3. Start the Server
+   ```bash
+   npm start
+   ```
+
    
 
    
